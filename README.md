@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Sachin!
+🚀 Full Stack Java Developer | Vue.js | Spring Boot | Hibernate | DevOps Enthusiast
 
-<!--
-**SachinPulse-bit/SachinPulse-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working as an Associate Software Engineer at Nuvizz Inc.  
+💻 Passionate about building scalable and high-performance applications.  
+🌱 Currently exploring System Design, DevOps, and Cloud Computing (AWS, Kubernetes).  
+📂 Sharing projects to help students and professionals learn backend development.  
 
-Here are some ideas to get you started:
+### 💡 Tech Stack:
+🛠 **Languages:** Core Java, JavaScript, HTML/CSS  
+⚡ **Frameworks:** Spring Boot, Spring MVC, Hibernate, Vue.js  
+📊 **Databases:** SQL, MongoDB  
+🔗 **APIs & DevOps:** RESTful APIs, OpenAPI/Swagger, Git, Docker, Jenkins, Kubernetes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me:
+🔗 **LinkedIn:** [Sachin Pulse](https://www.linkedin.com/in/sachin-pulse/)
+📧 **Email:** sachinpulse96@gmail.com  
+
+⚡ **Fun fact:** I love bike riding, cooking, and exploring new adventure sports! 🏍️🔥  
